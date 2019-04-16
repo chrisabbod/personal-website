@@ -2,7 +2,12 @@ body {
   background-color: #eaf6f6;
 }
 
+img:hover {
+  border-style: dotted;
+}
+
 img {
+  border-style: solid;
   border-radius: 50%
 }
 
